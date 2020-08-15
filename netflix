@@ -1,0 +1,5 @@
+# Use this list to totally block access to netflix on your network.
+
+0.0.0.0 nflxso.net
+0.0.0.0 nflxext.com
+0.0.0.0 nflximg.com
